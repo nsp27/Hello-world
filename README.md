@@ -1,2 +1,2 @@
 # Hello-world
-My repository on GitHub
+My repository on GitHub contains 3 programs

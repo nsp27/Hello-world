@@ -1,2 +1,4 @@
 # Hello-world
-My repository on GitHub contains 3 programs
+Q1- Dictionary.java and Dictionary.class
+Q3- Randomnumber.java and Randomnumber.class
+Q2- Done in Protractor with POM

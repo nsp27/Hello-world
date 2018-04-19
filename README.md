@@ -1,6 +1,6 @@
 # Hello-world
-Q1- Dictionary.java and Dictionary.class
-Q3- Randomnumber.java and Randomnumber.class
+Q1- Dictionary.java and Dictionary.class (input.txt contains the input value for dictionary)
+Q3- Randomnumber.java and Randomnumber.class (user is asked to enter the nth value)
 Q2- Done in Protractor with POM
 
 There are 3 screenshots of the framework
